@@ -1,0 +1,10 @@
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.AssemblyReference.cache
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.Properties.Resources.resources
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.GenerateResource.cache
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+C:\Users\40775\Desktop\C#\MessageApp\MessageApp\obj\Debug\MessageApp.Form1.resources

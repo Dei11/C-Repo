@@ -1,0 +1,10 @@
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.csproj.AssemblyReference.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.Form1.resources
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.Properties.Resources.resources
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.csproj.GenerateResource.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\bin\Debug\KeyEvent.exe.config
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\bin\Debug\KeyEvent.exe
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\bin\Debug\KeyEvent.pdb
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.exe
+C:\Users\40775\Desktop\C#\WinFormsApp\KeyEvent\obj\Debug\KeyEvent.pdb

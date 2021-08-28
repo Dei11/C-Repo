@@ -1,0 +1,10 @@
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.csproj.AssemblyReference.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.Form1.resources
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.Properties.Resources.resources
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.csproj.GenerateResource.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\bin\Debug\MoveObjects.exe.config
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\bin\Debug\MoveObjects.exe
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\bin\Debug\MoveObjects.pdb
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.exe
+C:\Users\40775\Desktop\C#\WinFormsApp\MoveObjects\obj\Debug\MoveObjects.pdb

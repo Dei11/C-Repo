@@ -1,0 +1,7 @@
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\bin\Debug\Debug.exe.config
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\bin\Debug\Debug.exe
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\bin\Debug\Debug.pdb
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\obj\Debug\Debug.csproj.AssemblyReference.cache
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\obj\Debug\Debug.exe
+C:\Users\40775\Desktop\C#\ConsoleApp\Debug\obj\Debug\Debug.pdb

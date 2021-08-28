@@ -1,0 +1,15 @@
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\bin\Debug\WpfAppDocumentAPI.exe.config
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\bin\Debug\WpfAppDocumentAPI.exe
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\bin\Debug\WpfAppDocumentAPI.pdb
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.csproj.AssemblyReference.cache
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\MainWindow.g.cs
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\App.g.cs
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI_MarkupCompile.cache
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI_MarkupCompile.lref
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\MainWindow.baml
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.g.resources
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.Properties.Resources.resources
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.csproj.GenerateResource.cache
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.exe
+C:\Users\40775\Desktop\C#\WpfAppDocumentAPI\WpfAppDocumentAPI\obj\Debug\WpfAppDocumentAPI.pdb

@@ -1,0 +1,5 @@
+C:\Users\40775\Desktop\C#\AgapiaForm.exe
+C:\Users\40775\Desktop\C#\AgapiaForm.dll
+C:\Users\40775\Desktop\C#\AgapiaForm.deps.json
+C:\Users\40775\Desktop\C#\AgapiaForm.runtimeconfig.json
+C:\Users\40775\Desktop\C#\AgapiaForm.pdb

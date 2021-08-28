@@ -1,0 +1,5 @@
+C:\Users\40775\Desktop\C#\AgapiaForm\AgapiaForm\bin\Debug\net5.0-windows\publish\AgapiaForm.exe
+C:\Users\40775\Desktop\C#\AgapiaForm\AgapiaForm\bin\Debug\net5.0-windows\publish\AgapiaForm.dll
+C:\Users\40775\Desktop\C#\AgapiaForm\AgapiaForm\bin\Debug\net5.0-windows\publish\AgapiaForm.deps.json
+C:\Users\40775\Desktop\C#\AgapiaForm\AgapiaForm\bin\Debug\net5.0-windows\publish\AgapiaForm.runtimeconfig.json
+C:\Users\40775\Desktop\C#\AgapiaForm\AgapiaForm\bin\Debug\net5.0-windows\publish\AgapiaForm.pdb

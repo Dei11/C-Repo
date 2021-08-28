@@ -1,0 +1,10 @@
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\bin\Debug\UserSettings.exe.config
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\bin\Debug\UserSettings.exe
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\bin\Debug\UserSettings.pdb
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.csproj.AssemblyReference.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.Form1.resources
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.Properties.Resources.resources
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.csproj.GenerateResource.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.exe
+C:\Users\40775\Desktop\C#\WinFormsApp\UserSettings\obj\Debug\UserSettings.pdb

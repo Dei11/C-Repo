@@ -1,0 +1,117 @@
+﻿<Window x:Class="WpfAppDocumentAPI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDocumentAPI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="794" Margin="0,0,-0.4,0">
+            <TabItem Header="Document">
+                <Grid Background="#FFE5E5E5">
+                    <FlowDocumentReader ViewingMode="Page" IsFindEnabled="True" 
+                                        IsPageViewEnabled="True" IsScrollViewEnabled="True"
+                                        IsTwoPageViewEnabled="True" Margin="0,0,0,10">
+                        <FlowDocument>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+
+                            <List>
+                                <ListItem>
+                                    <Paragraph>Item 1</Paragraph>
+                                </ListItem>
+                                <ListItem>
+                                    <Paragraph>Item 2</Paragraph>
+                                </ListItem>
+                            </List>
+
+                            <BlockUIContainer>
+                                <StackPanel>
+
+                                    <Label Foreground="Blue" >Favorite Phone:</Label>
+                                    <ComboBox>
+                                        <ComboBoxItem>Apple</ComboBoxItem>
+                                        <ComboBoxItem>Samsung</ComboBoxItem>
+                                        <ComboBoxItem>Nokia</ComboBoxItem>
+                                    </ComboBox>
+                                </StackPanel>
+                            </BlockUIContainer>
+
+                            <Table>
+                                <Table.Columns>
+                                    <TableColumn/>
+                                    <TableColumn/>
+                                    <TableColumn/>
+                                </Table.Columns>
+
+                                <TableRowGroup>
+                                    <TableRow>
+                                        <TableCell ColumnSpan="3" Background="blue" Foreground="AliceBlue">
+                                            <Paragraph Padding="10">Hello</Paragraph>
+                                        </TableCell>
+                                    </TableRow>
+
+                                    <TableRow>
+                                        <TableCell Background="White" >
+                                            <Paragraph>Hello</Paragraph>
+                                        </TableCell>
+                                        <TableCell Background="White" >
+                                            <Paragraph>Hello</Paragraph>
+                                        </TableCell>
+                                        <TableCell Background="White" >
+                                            <Paragraph>Hello</Paragraph>
+                                        </TableCell>
+                                    </TableRow>
+
+                                </TableRowGroup>
+                            </Table>
+                        </FlowDocument>
+                    </FlowDocumentReader>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Scroll" HorizontalAlignment="Left" Height="20.8" VerticalAlignment="Top" Width="53.6">
+                <Grid Background="#FFE5E5E5">
+                    <FlowDocumentScrollViewer>
+                        <FlowDocument>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                            <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.</Paragraph>
+                        </FlowDocument>
+                    </FlowDocumentScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Page Viewer">
+                <Grid Background="#FFE5E5E5">
+                    <FlowDocumentPageViewer>
+                        <FlowDocument>
+                            <Paragraph>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit magna, volutpat in mi eu, posuere eleifend eros. Donec ac iaculis libero. Mauris elementum tincidunt dolor vitae scelerisque.
+                            </Paragraph>
+                        </FlowDocument>
+                    </FlowDocumentPageViewer>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Rich" HorizontalAlignment="Left" Height="20.8" VerticalAlignment="Top" Width="53.6">
+                <Grid Background="#FFE5E5E5">
+                    <RichTextBox>
+                        <FlowDocument>
+                            <Paragraph>
+                                You can edit me
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

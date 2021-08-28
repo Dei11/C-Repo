@@ -1,0 +1,6 @@
+C:\Users\40775\Desktop\C#\ConsoleApp\Mydll\bin\Debug\Mydll.dll
+C:\Users\40775\Desktop\C#\ConsoleApp\Mydll\bin\Debug\Mydll.pdb
+C:\Users\40775\Desktop\C#\ConsoleApp\Mydll\obj\Debug\Mydll.csproj.CoreCompileInputs.cache
+C:\Users\40775\Desktop\C#\ConsoleApp\Mydll\obj\Debug\Mydll.dll
+C:\Users\40775\Desktop\C#\ConsoleApp\Mydll\obj\Debug\Mydll.pdb
+C:\Users\40775\Desktop\C#\ConsoleApp\Mydll\obj\Debug\Mydll.csproj.AssemblyReference.cache
